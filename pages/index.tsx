@@ -12,6 +12,7 @@ const Home: NextPage = () => {
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <meta name="description" content="Weather App" />
     <link rel="icon" href="https://images.emojiterra.com/twitter/v14.0/512px/2601.png" />
+    <meta httpEquiv="Content-Security-Policy" content="upgrade-insecure-requests"/>
   </Head>
     <main className='bg-slate-300 dark:bg-zinc-900 flex flex-col items-center justify-center h-screen'>
       <Input />
