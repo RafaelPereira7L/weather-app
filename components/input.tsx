@@ -2,10 +2,10 @@
 import type { NextPage } from 'next'
 import Image from 'next/image'
 import ThemeChanger from './themeChanger'
-import { weatherApi } from '../utils/weatherApi'
+import weatherApi  from '../utils/weatherApi'
+import WeatherResponse from '../utils/weatherResponseTypes'
 import { useState } from 'react'
 import { AxiosResponse } from 'axios'
-import { WeatherResponse } from '../utils/weatherResponseTypes'
 
 
 const Input: NextPage = () => {
