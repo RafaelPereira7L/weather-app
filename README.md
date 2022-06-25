@@ -1,9 +1,9 @@
 <h1 align="center">WEATHER APP</h1>
 <p align="center">Weather Web App using Next.js, TypeScript, TailwindCSS and <a href="https://www.weatherapi.com/">Weather API</a></p>
 <p align="center">Aplicação Web de Tempo usando Next.js, TypeScript, TailwindCSS e <a href="https://www.weatherapi.com/">Weather API</a></p>
-
-
-
+<div align="center">
+<a href="https://weather-app-kappa-inky.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/VISIT-239120?style=for-the-badge&logoColor=white"/></a>
+</div>
 <h1 align="center">PREVIEW</h1>
 <div align="center">
 <img src="public/1.png" width='200'/>
@@ -45,3 +45,10 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+<div align="center">
+<img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+ </div>
