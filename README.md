@@ -1,3 +1,16 @@
+<h1 align="center">WEATHER APP</h1>
+<p align="center">Weather Web App using Next.js, TypeScript, TailwindCSS and <a href="https://www.weatherapi.com/">Weather API</a></p>
+<p align="center">Aplicação Web de Tempo usando Next.js, TypeScript, TailwindCSS e <a href="https://www.weatherapi.com/">Weather API</a></p>
+
+
+
+<h1 align="center">PREVIEW</h1>
+<div align="center">
+<img src="public/1.png" width='200'/>
+<img src="public/2.png" width='200'/>
+<img src="public/3.png" width='200'/>
+</div>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
