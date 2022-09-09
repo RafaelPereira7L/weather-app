@@ -8,6 +8,7 @@ const weatherApi = async (city: string) => {
         params: {
             key: API_KEY,
             q: city,
+            lang: 'pt',
         }
     }); 
     return data;
